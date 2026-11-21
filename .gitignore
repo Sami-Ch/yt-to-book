@@ -1,0 +1,5 @@
+/downloads
+.DS_store
+/logs
+/__pycache__
+
